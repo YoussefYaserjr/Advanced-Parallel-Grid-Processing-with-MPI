@@ -1,0 +1,3 @@
+D:/EDU/4th/secound/Parallal Computing/Lab/Project/cmake-build-debug/CMakeFiles/parallel_grid.dir
+D:/EDU/4th/secound/Parallal Computing/Lab/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/EDU/4th/secound/Parallal Computing/Lab/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

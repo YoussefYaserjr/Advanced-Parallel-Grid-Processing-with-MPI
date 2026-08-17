@@ -24,3 +24,14 @@
 8	2229	8001328088104824	CMakeFiles/parallel_grid.dir/algorithms/heat_diffusion.cpp.obj	a7297c13d4b1e224
 2230	2740	8001328110307924	parallel_grid.exe	6f37903f8d420502
 9	1183	8001338505823931	CMakeFiles/parallel_grid.dir/main.cpp.obj	f8190531c5b7bb3a
+6	30	8001509903311664	clean	ad1fa47cc9deeed5
+79	1820	8001509908425472	CMakeFiles/parallel_grid.dir/communication/nonblocking.cpp.obj	44d7c83eae3a6931
+67	1842	8001509908306532	CMakeFiles/parallel_grid.dir/communication/blocking.cpp.obj	2754d86fbcd6e95f
+95	2008	8001509908587539	CMakeFiles/parallel_grid.dir/communication/neighbor_exchange.cpp.obj	3e242456c3c09641
+46	2478	8001509908094938	CMakeFiles/parallel_grid.dir/algorithms/matrix_multiplication.cpp.obj	7feefb7fcd96f83c
+11	2892	8001509907735312	CMakeFiles/parallel_grid.dir/main.cpp.obj	f8190531c5b7bb3a
+21	3077	8001509907836589	CMakeFiles/parallel_grid.dir/algorithms/heat_diffusion.cpp.obj	a7297c13d4b1e224
+2008	3796	8001509927711727	CMakeFiles/parallel_grid.dir/utils/file_loader.cpp.obj	9ae45b2e69a3da5e
+1820	3831	8001509925836316	CMakeFiles/parallel_grid.dir/utils/matrix.cpp.obj	93aca337166cbb60
+1842	4105	8001509926053787	CMakeFiles/parallel_grid.dir/utils/timer.cpp.obj	c2dc5b5767613376
+4105	4418	8001509948684734	parallel_grid.exe	6f37903f8d420502
